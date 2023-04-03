@@ -1,2 +1,2 @@
-# Ola-s-Enterprise
-a portforlio web page with login and log out
+# Ola-s-Project
+a portforlio project
